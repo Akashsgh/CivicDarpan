@@ -1,0 +1,14 @@
+{
+  "algorithm": "LogisticRegression(C=5.0)",
+  "accuracy": 0.7222222222222222,
+  "f1_score": 0.6968253968253968,
+  "classes": [
+    "Blocked Drainage & Waterlogging",
+    "Broken Streetlights & Electrical",
+    "Damaged Footpaths & Public Infrastructure",
+    "Garbage Accumulation & Sanitation",
+    "Potholes & Damaged Roads",
+    "Water Leakage & Pipeline Issues"
+  ],
+  "sample_count": 120
+}
